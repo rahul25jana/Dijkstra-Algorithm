@@ -1,0 +1,47 @@
+2018-06-15 00:32:45.029 a.out[12]        The Shortest Path Algorithm                                                           
+                                                                                                                               
+2018-06-15 00:32:45.031 a.out[12] Enter the weight of the path between nodes 1 and 2:                                          
+1                                                                                                                              
+2018-06-15 00:32:48.490 a.out[12] Enter the weight of the path between nodes 1 and 3:                                          
+3                                                                                                                              
+2018-06-15 00:32:49.905 a.out[12] Enter the weight of the path between nodes 1 and 4:                                          
+4                                                                                                                              
+2018-06-15 00:32:50.256 a.out[12] Enter the weight of the path between nodes 1 and 5:                                          
+5                                                                                                                              
+2018-06-15 00:32:50.647 a.out[12] Enter the weight of the path between nodes 1 and 6:                                          
+67                                                                                                                             
+2018-06-15 00:32:51.572 a.out[12]                                                                                              
+2018-06-15 00:32:51.572 a.out[12] Enter the weight of the path between nodes 2 and 3:                                          
+9                                                                                                                              
+2018-06-15 00:32:52.881 a.out[12] Enter the weight of the path between nodes 2 and 4:                                          
+6                                                                                                                              
+2018-06-15 00:32:53.552 a.out[12] Enter the weight of the path between nodes 2 and 5:                                          
+5                                                                                                                              
+2018-06-15 00:32:54.101 a.out[12] Enter the weight of the path between nodes 2 and 6:                                          
+6                                                                                                                              
+2018-06-15 00:32:54.989 a.out[12]                                                                                              
+2018-06-15 00:32:54.989 a.out[12] Enter the weight of the path between nodes 3 and 4:                                          
+7                                                                                                                              
+2018-06-15 00:32:56.810 a.out[12] Enter the weight of the path between nodes 3 and 5:                                          
+3                                                                                                                              
+2018-06-15 00:32:57.273 a.out[12] Enter the weight of the path between nodes 3 and 6:                                          
+6                                                                                              
+2018-06-15 00:32:57.999 a.out[12]                                                                                              
+2018-06-15 00:32:57.999 a.out[12] Enter the weight of the path between nodes 4 and 5:                                          
+8                                                                                                                              
+2018-06-15 00:32:58.633 a.out[12] Enter the weight of the path between nodes 4 and 6:                                          
+3                                                                                                                              
+2018-06-15 00:32:59.334 a.out[12]                                                                                              
+2018-06-15 00:32:59.334 a.out[12] Enter the weight of the path between nodes 5 and 6:                                          
+6                                                                                                                              
+2018-06-15 00:33:00.112 a.out[12]                                                                                              
+2018-06-15 00:33:00.112 a.out[12]                                                                                              
+2018-06-15 00:33:00.112 a.out[12]                                                                                              
+Enter the source:                                                                                                              
+1                                                                                                                              
+2018-06-15 00:33:02.517 a.out[12]                                                                                              
+Enter the target                                                                                                               
+14                                                                                                                             
+2018-06-15 00:33:04.799 a.out[12]                                                                                              
+2018-06-15 00:33:04.799 a.out[12]                                                                                              
+The Shortest Path: 927265208            
